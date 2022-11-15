@@ -1,0 +1,7 @@
+# Common
+matplotlib==3.5.3
+pandas
+tensorflow_datasets
+tensorflow_io
+tensorflow_addons
+imgaug

@@ -1,0 +1,8 @@
+# Each line is a file pattern followed by one or more owners.
+
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence
+
+*	taegeon.um@samsung.com	byungsoo.oh@samsung.com	bchan.seo@samsung.com	mh.kweun@samsung.com		ge326.kim@samsung.com	 wooyeon0.lee@samsung.com
+
+
