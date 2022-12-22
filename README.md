@@ -1,9 +1,9 @@
 # Welcome to FastFlow
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by] [![CC BY 4.0][cc-by-image]][cc-by]
+Shield: [![CC BY-NC-ND 4.0][cc-by-shield]][cc-by-nc-nd] [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
-[cc-by]: http://creativecommons.org/licenses/by/4.0/
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png
+[cc-by-nc-nd-shield]: https://upload.wikimedia.org/wikipedia/commons/7/73/Cc_by-nc-nd_icon.svg
 
 
 FastFlow is a deep learning training system that automatically detects CPU bottlenecks in deep learning training pipelines and resolves the bottlenecks with data pipeline offloading to remote resources.
@@ -219,6 +219,5 @@ Now, during the model training, FastFlow launches and manages ec2 instances for 
 ---------------
 
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by-nc-nd].
 
